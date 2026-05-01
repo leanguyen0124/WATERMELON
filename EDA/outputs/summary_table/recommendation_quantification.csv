@@ -1,0 +1,13 @@
+metric,value
+REC1: Avg dropped customers/year,10819
+REC1: Avg revenue per retained customer,"60,588"
+REC1: Retained if 15% reduction,1623
+REC1: Potential additional revenue,"98,322,246"
+REC2: High-only customer count,"55,323"
+REC2: Frequency gap (Multi vs High-only),-130.69
+REC2: AOV gap (Multi vs High-only),"+3,963"
+REC2: Potential revenue if 10% convert,"-20,195,532,153"
+REC3: Cash wasted on overstock restocking,"3,396,664,344"
+REC3: Overstock restocking % of total,70.9%
+REC3: Avg days-of-supply overstock vs normal,1177.6 vs 61.7
+REC3: Sell-through-rate overstock vs normal,0.089 vs 0.356
