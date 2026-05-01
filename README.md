@@ -12,7 +12,7 @@ Dự án bao gồm hai phần chính:
 
 ```text
 ├── datathon-2026-round-1/     # Tập dữ liệu gốc (CSV files)
-├── ML/              # Mã nguồn mô hình ML
+├── ML_copy/              # Mã nguồn mô hình ML
 │   ├── feature_ml.ipynb       # Notebook chính thực hiện Feature Engineering và Modeling
 │   ├── dataset/               # Dữ liệu đã xử lý và file submission
 │   └── models/                # Các báo cáo giải thích mô hình (SHAP-style)
